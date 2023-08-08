@@ -9,7 +9,7 @@ Output Expected: List of Non-compliances
 ![README_Diagram](https://github.com/jeraldhan92/pilespacechecker/assets/49491450/217a393c-81fa-490e-942d-75507e6e6cd2)
 
 ## Output
-Values in "Limit" and "Actual" are in millimeters. 
+Values in "Limit" and "Actual" are in millimeters. You can also see that there was a duplicate modeling of a single pile in the same location with a return of 0mm horizontal distance.
 
 ![output](https://github.com/jeraldhan92/pilespacechecker/assets/49491450/f64ec1cd-c382-4034-b4d2-ea7c3d709411)
 
